@@ -1,0 +1,75 @@
+{
+    "tools": [
+        {
+            "title": "Visual Studio Code",
+            "description": "VSC is a go-to when it comes to web development.",
+            "url": "https://code.visualstudio.com/",
+            "image": "/assets/images/vscode.png",
+            "category": "development"
+        },
+
+        {
+            "title": "Vivaldi",
+            "description": "Like Brave but more customization. Currently my daily driver.",
+            "url": "https://vivaldi.com",
+            "image": "/assets/images/vivaldi.png",
+            "category": "development"
+        },
+        {
+            "title": "Warp",
+            "description": "A terminal I'm trying out right now as a alternative to Iterm2 .",
+            "url": "https://warp.dev/",
+            "image": "/assets/images/warp.png",
+            "category": "development"
+        },
+        {
+            "title": "Figma",
+            "description": "I do all my UI design in Figma.",
+            "url": "https://figma.com/",
+            "image": "/assets/images/figma.webp",
+            "category": "design"
+        },
+        {
+            "title": "Sip",
+            "description": "Really cool color picker.",
+            "url": "https://sipapp.io/",
+            "image": "/assets/images/sip.png",
+            "category": "design"
+        },
+        {
+            "title": "Bear",
+            "description": "I believe it’s one of the best  note taking apps out right now for me. Has tags, back links and is simple.",
+            "url": "https://bear.app",
+            "image": "/assets/images/bear.png",
+            "category": "productivity"
+        },
+        {
+            "title": "Things",
+            "description": "My favorite to-do app, nice and simple.",
+            "url": "https://culturedcode.com/things/",
+            "image": "/assets/images/things.png",
+            "category": "productivity"
+        },
+        {
+            "title": "Raycast",
+            "description": "Just plain better than Spotlight. Supports scripting and so much more. Just download it and thank me later!",
+            "url": "https://www.raycast.com/",
+            "image": "/assets/images/raycast.png",
+            "category": "productivity"
+        },
+        {
+            "title": "CleanShot X",
+            "description": "For taking and sharing screenshots and screen recordings.",
+            "url": "https://cleanshot.com/",
+            "image": "/assets/images/cleanshot.png",
+            "category": "productivity"
+        },
+        {
+            "title": "FinalCut Pro",
+            "description": "My video editor of choice.",
+            "url": "https://www.apple.com/final-cut-pro/",
+            "image": "/assets/images/fcp.png",
+            "category": "video"
+        }
+    ]
+}

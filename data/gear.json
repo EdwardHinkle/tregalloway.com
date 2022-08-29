@@ -1,0 +1,49 @@
+{
+    "gear": [
+        {
+            "title": "Rode VideoMicro",
+            "description": "A legendary microphone! Michael Jackson used it on Thriller! 🕺",
+            "url": "https://amzn.to/3mXOar8",
+            "image": "/assets/images/rode.webp",
+            "category": "audio"
+        },
+        {
+            "title": "Blue Yeti",
+            "description": "A relatively cheap and reliable mic preamp. It's a good Cloudlifter alternative. You need this if you use an SM7B!",
+            "url": "https://amzn.to/3OeIm8s",
+            "image": "/assets/images/yeti.jpg",
+            "category": "audio"
+        },
+
+        {
+            "title": "13” MacBook Air M1 ",
+            "description": "10 core CPU | 32 core GPU | 32GB RAM | 1TB SSD",
+            "url": "https://amzn.to/3QvacPq",
+            "image": "/assets/images/mac.jpg",
+            "category": "computing"
+        },
+        {
+            "title": "Cannon M50 Mark 2",
+            "description": "An industry standard. It shoots 6k and then it downscales it to 4k. You get sharper 4k that way.",
+            "url": "https://amzn.to/3MUS8LG",
+            "image": "/assets/images/cannon.webp",
+            "category": "video"
+        },
+
+        {
+            "title": "2 x NEEWER lights",
+            "description": "Not the best but definitely better than a lamp.",
+            "url": "https://amzn.to/39zBKCA",
+            "image": "/assets/images/lights.jpg",
+            "category": "video"
+        },
+
+        {
+            "title": "SanDisk 1TB Extreme Portable SSD",
+            "description": "My external hard drive",
+            "url": "https://amzn.to/3MVwWFq",
+            "image": "/assets/images/ssd.jpg",
+            "category": "misc"
+        }
+    ]
+}
